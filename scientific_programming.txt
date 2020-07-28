@@ -1,0 +1,13 @@
+1. Also I experienced a a lack of all basic software development practice mentioned in the paper by Wilson et al. (2014). Making self-written code usable for other students or future work is quite difficult without best practice software development knowledge. Especially if hard coded software is difficult to adapt to other projects and not user friendly. Furthermore it is difficult to work on the same project / code with several people at the same time without interfering. Also versioning documents and other files has its challenges. If changes are made it is hard to trace back earlier versions. This is especially problematic if your code doesn’t work anymore but it did in an earlier version.
+
+2. > Write code that can be understood easily and is neatly arranged.
+> Make code style consistent. 
+> Automate Analyses and computational tasks.
+> Get frequent feedback when working on code to be able to apply corrections more easily.
+> Use a version control system.
+> Ad assertions to your code to check if inout is valid or output are consistent.
+> First make your code work, that optimize. Use a profiler to find the bottlenecks.
+> Write your code in high-level coding langiages (e.g. python), only use C++ if it is much more faster processed. 
+
+3. A version control system keeps track of changes. Furthermore it enables collaboration on code and files with other people. It is capable of keeping the version of a project in a repository and highlight changes made between different versions. If files are edited simultaneously, it requires to solve conflicts before accepting changes made. One of the most often used version control systems in scientific work is GitHub. In enables other people to share their code and make their work reproducible. In addition other people can comment, make suggestions and improve your work you shared.
+
